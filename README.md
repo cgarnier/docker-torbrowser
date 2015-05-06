@@ -6,8 +6,8 @@ browsing.
 # Build from Dockerfile #
 
 ```
-git clone https://github.com/dbravender/docker-torbrowser.git
-docker build -t torbrowser .
+git clone https://github.com/cgarnier/docker-torbrowser.git
+docker build -t tor-browser .
 ```
 
 ## Start Script ##
